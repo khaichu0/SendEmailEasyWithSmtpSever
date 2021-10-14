@@ -1,0 +1,9 @@
+C:\Users\LaptopPro\Desktop\SendEmailEasy\EmailService\bin\Debug\netcoreapp3.1\EmailService.deps.json
+C:\Users\LaptopPro\Desktop\SendEmailEasy\EmailService\bin\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\LaptopPro\Desktop\SendEmailEasy\EmailService\bin\Debug\netcoreapp3.1\EmailService.pdb
+C:\Users\LaptopPro\Desktop\SendEmailEasy\EmailService\obj\Debug\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+C:\Users\LaptopPro\Desktop\SendEmailEasy\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\LaptopPro\Desktop\SendEmailEasy\EmailService\obj\Debug\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\LaptopPro\Desktop\SendEmailEasy\EmailService\obj\Debug\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\LaptopPro\Desktop\SendEmailEasy\EmailService\obj\Debug\netcoreapp3.1\EmailService.dll
+C:\Users\LaptopPro\Desktop\SendEmailEasy\EmailService\obj\Debug\netcoreapp3.1\EmailService.pdb
